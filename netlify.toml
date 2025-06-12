@@ -1,0 +1,3 @@
+[build]
+  command = "pnpm exec @netlify/next"
+  publish = ".next" 
