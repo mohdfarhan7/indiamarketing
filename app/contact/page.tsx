@@ -113,7 +113,8 @@ export default function ContactPage() {
                 </div>
                 <h3 className="text-lg font-semibold text-gray-800 mb-2">Address</h3>
                 <p className="text-gray-600 text-sm">
-                  Mumbai, Maharashtra
+                   Airport Road, Nagchoon Main Road
+                  Khandwa, Madhya Pradesh 450001
                   <br />
                   India
                 </p>
