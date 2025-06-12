@@ -13,7 +13,7 @@ import Link from "next/link"
 // Comprehensive product data with actual images
 const allProducts = [
   // Vegetables
-  {image.png
+  {
     id: 1,
     name: " Red Onions",
     category: "Vegetables",
